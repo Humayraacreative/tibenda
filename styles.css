@@ -1,0 +1,141 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        
+        .header {
+            background-color: cornflowerblue;
+            color: #fff;
+            padding: 5px;
+            text-align: center;
+        }
+        
+        .footer {
+            background-color: cornflowerblue;
+            color: white;
+            text-align: center;
+            padding: 5px;
+            width: 100%;
+            height: auto;
+            padding: 10px 16px;
+            float: left;
+            font-size: 14px;
+            border-radius: 10px;
+        }
+        
+        .footer .contact-info {
+            margin-bottom: 10px;
+        }
+        
+        .footer .venue-info {
+            margin-bottom: 5px;
+        }
+        
+        .footer .date-info {
+            margin-bottom: 5px;
+        }
+        
+        .footer address {
+            font-style: normal;
+        }
+        
+        .container {
+            width: 100%;
+            margin: auto;
+            overflow: hidden;
+        }
+        
+        section {
+            padding: 20px;
+            margin-bottom: 10px;
+        }
+        
+        .logo {
+            display: block;
+            margin: auto;
+            width: 150px;
+        }
+        
+        #welcome {
+            display: inline;
+            justify-content: center;
+            width: 300px;
+            height: auto;
+            margin: auto;
+        }
+        
+        .head-image {
+            float: right;
+            width: 300px;
+            height: auto;
+            margin: 10px;
+        }
+        
+        .h2 {
+            text-decoration: #f2f2f2;
+            color: aqua;
+        }
+        
+        .a {
+            color: aqua;
+        }
+        
+        .A {
+            color: rgb(99, 107, 219);
+        }
+        
+        .theme {
+            text-align: center;
+            background-color: #f2f2f2;
+            color: #0f0d0d;
+            padding: 20px;
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(1, 1green, 1blue, 1alpha);
+        }
+        
+        .guest-of-honor {
+            float: right;
+            margin: 10px;
+            width: 300px;
+            height: auto;
+        }
+        
+        .best-student {
+            float: right;
+            margin: 10px;
+            width: 300px;
+            height: auto;
+        }
+        
+        .best {
+            text-align: center;
+            text-decoration-color: aqua;
+            text-decoration: solid;
+            color: aqua;
+        }
+        
+        .raw {
+            display: flex;
+            justify-content: center;
+            flex-wrap: nowrap;
+        }
+        
+        .raw img {
+            width: 350px;
+            height: auto;
+            margin: 5px;
+        }
+        
+        .image-gallery .caption {
+            text-align: center;
+            margin-top: 5px;
+        }
